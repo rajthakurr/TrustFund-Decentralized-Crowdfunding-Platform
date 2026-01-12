@@ -90,6 +90,10 @@ Traditional crowdfunding platforms rely on centralized authorities, which can le
     npm run dev
     ```
 - Connect account to  website
+  - Open MetaMask
+  - Connect wallet
+  - Start creating or contributing to campaigns
+
 
 ### Hardhat commands
 ```shell
