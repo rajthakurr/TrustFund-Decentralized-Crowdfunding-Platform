@@ -76,10 +76,9 @@ Traditional crowdfunding platforms rely on centralized authorities, which can le
     npx hardhat test
     ```
 - Connect HardHat Account to Metamask
-    ```
     - Import one of the Hardhat private keys into MetaMask
     - Set network to Localhost 8545
-    ```    
+  
 
 - Deploy contract in local hardhat node
     ```
